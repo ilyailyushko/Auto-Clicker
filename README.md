@@ -6,12 +6,12 @@
 
 1. Склонируйте репозиторий:
 ```bash
-    https://github.com/ilyailyushko/Auto-Clicker.git
+https://github.com/ilyailyushko/Auto-Clicker.git
 ```
 
 2. Перейдите в директорию проекта:
 ```bash
-    cd auto-clicker
+cd Auto-Clicker
 ```
 
 3. Создайте виртуальное окружение и активируйте его:
